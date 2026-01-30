@@ -1,6 +1,1 @@
-# Simple HTML Resume
-
-This is a beginner-friendly HTML resume.
-
-## Screenshot
-![Resume Preview](<img width="768" height="1201" alt="{33660CE4-EBA1-4BB8-999C-8D1EB7F035CA}" src="https://github.com/user-attachments/assets/6825d4e2-4d71-4c37-bd3f-dcee5bc889d6" />)
+<img width="768" height="1201" alt="{18E43EF2-9110-4AEF-B818-E30465AFAD8E}" src="https://github.com/user-attachments/assets/e5aac8a6-4611-4c21-9a85-d79da9dcd8d5" />
