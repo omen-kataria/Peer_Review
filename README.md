@@ -1,4 +1,3 @@
-
 # Simple HTML Resume
 
 This project is part of the **Chai Code Cohort 2026 – Web Development Peer Review**.
