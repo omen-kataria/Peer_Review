@@ -6,8 +6,6 @@ It contains a **basic HTML resume** created using only core HTML elements.
 The goal of this project is to practice proper HTML structure, semantic tags,
 and GitHub workflow, without using CSS or JavaScript.
 
-## Preview
-
 ## Project Details
 - Built using **pure HTML**
 - No CSS or external libraries used
