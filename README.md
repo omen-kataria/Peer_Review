@@ -7,7 +7,6 @@ The goal of this project is to practice proper HTML structure, semantic tags,
 and GitHub workflow, without using CSS or JavaScript.
 
 ## Preview
-![image alt](https://github.com/omen-kataria/Peer_Review/blob/900b395385839333ab9cb703310f6dba85b44b8c/Screenshot.png)
 
 ## Project Details
 - Built using **pure HTML**
